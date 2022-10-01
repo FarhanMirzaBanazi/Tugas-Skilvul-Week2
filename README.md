@@ -343,8 +343,8 @@
             ```
         
         - EventListener - Form Submission
-            <div align="justify">Misalkan kita mempunyai element beberapa input dalam sebuah form 
-            ``<input name=”email />`` dan 
+            
+            Misalkan kita mempunyai element beberapa input dalam sebuah form ``<input name=”email />`` dan 
             ``<input type=”password” name=”password” />``. Bagaimana caranya  kita mendapatkan isi dari kedua input tersebut saat submit form?
             <br/>
             Ada 2 cara:
