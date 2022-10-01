@@ -329,7 +329,8 @@
         
         - EventListener - Blur
             <div align="justify">“Blur”, lawan dari “focus”, adalah event di mana sebuah element kehilangan fokus dari user (misal user klk mouse di luar element tersebut atau user klik tab untuk berpindah element) <br/>
-            <div align="justify">Misalkan kita ingin memvalidasi isi dari 
+            
+            Misalkan kita ingin memvalidasi isi dari 
             ``<input id="username"/>`` agar panjangnya minimal 6 karakter
 
             ```js
